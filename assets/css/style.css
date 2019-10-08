@@ -1,0 +1,47 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.bayang{
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
+}
+.title{
+    font-weight: bold;
+    color: #4285F4;
+}
+div p{
+    padding-top: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 30px;
+}
+p{
+    color: #616161;
+}
+.section{
+    padding-top: 90px;
+}
+h2{
+    font-weight: bold;
+    color: #616161;
+}
+.abu{
+    background-color: #eee;
+}
+.blue{
+    color: #4285F4;
+}
+.link li{
+    list-style: none;
+}
+.link li{
+    padding: 10px;
+}
+.link li a{
+    text-decoration: none;
+    color: #616161;
+}
+.item{
+    padding: 20px;
+    margin: 20px;
+    background: #eee;
+}
